@@ -1,0 +1,2 @@
+# NasPrviDeljeniRepo
+Vezba
